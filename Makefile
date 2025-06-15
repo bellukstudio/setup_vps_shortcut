@@ -42,5 +42,6 @@ phpmyadmin: ## Install phpMyAdmin
 
 pm2: ## Install PM2 (Node.js process manager)
 	curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+        sudo npm install -g npm
 	sudo apt install -y nodejs
 	sudo npm install -g pm2
