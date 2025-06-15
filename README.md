@@ -89,14 +89,3 @@ sudo apt install -y make
 
 ---
 
-
-## 🧾 License
-
-MIT License
-
-```
-
----
-
-(SETUP VPS SHORTCUT)`https://github.com/bellukstudio/setup_vps_shortcut.git`.
-```
